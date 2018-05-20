@@ -1,0 +1,13 @@
+
+
+.mTop{
+	margin-top:100px;
+	padding:10px
+}
+
+.bbackcolorblack{
+	background-color:#f00 !important;
+}
+.sticky1-footer{ 
+ position: absolute; bottom: 0; width: 100%; height: 60px;
+ }
