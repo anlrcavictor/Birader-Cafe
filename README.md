@@ -31,5 +31,22 @@ Controller larda gerçekleşmiştir.*[Örnek HaberController](https://github.com
   olacak şekilde dizayn edilmiştir.*
   </br></br>
   ![Mesajlar](https://github.com/anlrcavictor/ImagesRepo-for-Readme/blob/master/BiraderCafe/MesagesAdmin.png?raw=true)
+  </br></br>
+  *Web sitesinin görselinde Bootstrap kullanılmıştır.Hazır bir bootstrap template i tüm siteye giydirilmişitr.Bu giydirme header ve      footerın `<jsp:include/>` jsp tagi ile gerçekleştirilmiştir.Hem sitenin ön yüzü hem de admin tarafınının header ve footer ları bu 
+  şekilde jsp sayfalarına import edilmiştir.Boottstrap kullanıldığı için proje responsive özelliği göstermektedir.Tüm görsel elemanlar
+  projenin içinde ve onlara ulaşım ise proje içindeki yolları ile gerçekleştirilmektedir.Fotoların yolları(Path)ise veri tabanında
+  tutulmaktadır.*
+  </br></br>
+  ![Responsive](https://github.com/anlrcavictor/ImagesRepo-for-Readme/blob/master/BiraderCafe/Responsive.png?raw=true) maveb 
+  </br></br>
+  *Projede maven kullanılmamıştır.gerekli jar lar WEB-INF/lib altındadır.Tüm jsp sayfaları WebContent altındadır.*
   
+  ## Project Structure
+  
+  ![Structure](https://github.com/anlrcavictor/ImagesRepo-for-Readme/blob/master/BiraderCafe/Structure.png?raw=true)
+  
+  ## Projeden Görüntüler
+  
+  ![HomePage](https://github.com/anlrcavictor/ImagesRepo-for-Readme/blob/master/BiraderCafe/HomePage.png?raw=true)
+  ![AdminPage](https://github.com/anlrcavictor/ImagesRepo-for-Readme/blob/master/BiraderCafe/NewsAdmin.png?raw=true)
   
